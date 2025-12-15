@@ -21,10 +21,36 @@
 // "" => false
 // "rakshit" => true 
 
-let someNumber = 33
+// let someNumber = 33
 
-let stringNumber = String(someNumber)
+// let stringNumber = String(someNumber)
 
-console.log(typeof stringNumber)
+// console.log(typeof stringNumber)
 
-console.log(stringNumber)
+// console.log(stringNumber)
+
+
+// ******************* Operations *******************
+
+// let value = 3
+
+// let negValue = -value
+
+// console.log(negValue)
+
+// let str1 = "hello"
+
+// let str2 = " rakshit"
+
+// let str3 = str1 + str2
+
+//console.log(str3)
+
+// c
+
+
+let gameCounter = 100
+
+gameCounter++
+
+console.log(gameCounter)
